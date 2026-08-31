@@ -9,7 +9,7 @@ const {
 
 // ---- CONFIG ----
 const TOKEN = process.env.MTQ0NzIwMjAwNjI4NzY1MDgyNw.GrSDKi.Sm13Rno18IkDl4_RpJbNXg2qrs6KkrUOWgGVlg;     // your bot token
-const CLIENT_ID = process.env.1447202006287650827; // your bot's application/client ID
+const CLIENT_ID = process.env.const CLIENT_ID = process.env.DISCORD_CLIENT_ID; // your bot's application/client ID; // your bot's application/client ID
 // ----------------
 
 const client = new Client({
